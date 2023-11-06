@@ -19,7 +19,7 @@ function App() {
         <article className="mt-4 rounded rounded-[40px] p-[2px] bg-gradient-to-b from-kinsta-shadow to-kinsta-shadow/0">
             <div className="inner rounded rounded-[40px] bg-kinsta-dark-blue lg:px-[40px] lg:py-[64px] px-[16px] py-[40px]">
             <div className="text-center text-white">
-                <h2 className="text-[24px] lg:text-[32px] font-bold mb-3">Welcome to Your New <strong>React</strong>&nbsp;App</h2>
+                <h2 className="text-[24px] lg:text-[32px] font-bold mb-3">Welcome to <strong>Ryan Swanstrom's</strong>&nbsp;App</h2>
                 <p className="text-white/50">Get started easily with these quick links:</p>
             </div>
             
